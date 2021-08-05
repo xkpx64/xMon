@@ -1,3 +1,15 @@
 [submodule "backend"]
 	path = backend
 	url = https://github.com/star-008/backend-neispuo.git
+[submodule "openid-provider"]
+	path = openid-provider
+	url = https://github.com/star-008/oidc-provider-neispuo.git
+[submodule "frontend_main-portal"]
+	path = frontend_main-portal
+	url = https://github.com/star-008/frontend-neispuo-main-portal.git
+[submodule "frontend_portal1"]
+	path = frontend_portal1
+	url = https://github.com/star-008/frontend-neispuo-portal1.git
+[submodule "frontend_portal2"]
+	path = frontend_portal2
+	url = https://github.com/star-008/frontend-neispuo-portal2.git
